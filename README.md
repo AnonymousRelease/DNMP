@@ -32,4 +32,14 @@ You can run `scripts/test_kitti360.sh` for evaluation. (Please specify `SAVE_DIR
 ## Other demos
 
 ### Texture editing
-<img src="https://github.com/AnonymousRelease/DNMP/blob/main/demos/demo-edit-1.gif" width="45%" /> <img src="https://github.com/AnonymousRelease/DNMP/blob/main/demos/demo-edit-2.gif" width="45%" />
+Original
+
+<img src="https://github.com/FanLu97/DNMP-dev/blob/main/demos/demo-edit-raw.gif" width="50%" alt="Original" />
+
+Edited Sample 1
+
+<img src="https://github.com/FanLu97/DNMP-dev/blob/main/demos/demo-edit-1.gif" width="50%" alt="Edited Sample 1" />
+
+Edited Sample 2
+
+<img src="https://github.com/FanLu97/DNMP-dev/blob/main/demos/demo-edit-2.gif" width="50%" alt="Edited Sample 2" />
