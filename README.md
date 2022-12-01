@@ -28,3 +28,8 @@ python setup.py build_ext --inplace
 
 We provide pre-trained weights of a single sequence of KITTI-360 dataset in `pretrained/` for evaluation.
 You can run `scripts/test_kitti360.sh` for evaluation. (Please specify `SAVE_DIR` and `DATA_ROOT` in the script.)
+
+## Other demos
+
+### Texture editing
+<img src="https://github.com/AnonymousRelease/DNMP/blob/main/demos/demo-edit-1.gif" width="45%" /> <img src="https://github.com/AnonymousRelease/DNMP/blob/main/demos/demo-edit-2.gif" width="45%" />
