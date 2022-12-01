@@ -47,6 +47,4 @@ python train_render.py \
 --voxel_size_list 0.50 1.0 \
 --pretrained_geo_list ${CURR_PRETRAIN_GEO_05} ${CURR_PRETRAIN_GEO_10} \
 --use_bkgd True \
---render_multi_scale True \
---bin_size 72 \
---max_faces_per_bin_factor 2
+--render_multi_scale True 

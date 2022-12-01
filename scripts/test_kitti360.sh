@@ -46,7 +46,7 @@ python test_render.py \
 --use_bkgd True \
 --render_multi_scale True \
 --bin_size 72 \
---max_faces_per_bin_factor 2 \
+--max_faces_per_bin_factor 5 \
 --save_dir ${SAVE_DIR} \
---pretrained_render pretrained/render/render_seq_1.pth \
---pretrained_mipnerf pretrained/mipnerf/mipnerf_seq_1.pth 
+--pretrained_render pretrained/render/render_seq_3.pth \
+--pretrained_mipnerf pretrained/mipnerf/mipnerf_seq_3.pth 
